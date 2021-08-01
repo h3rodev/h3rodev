@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">A passionate frontend developer from Philippines living in Dubai</h3>
+<h3 align="center">A passionate programer from Philippines living in Dubai</h3>
 
 - 🔭 I’m currently working on [AQUA Properties](https://aquaproperties.com)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **solidity**
 
 - 👨‍💻 All of my projects are available at [https://hartsol.herokuapp.com](https://hartsol.herokuapp.com)
 
 - 📝 I regularly write articles on [https://inspiresean.com](https://inspiresean.com)
 
-- 💬 Ask me about **Python, Laravel, Wordpress, Vue, React**
+- 💬 Ask me about **Python, Laravel, Wordpress, Vue, React, Flutter**
 
 - 📫 How to reach me **ronald.tolentino27@gmail.com**
 
