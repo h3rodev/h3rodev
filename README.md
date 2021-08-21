@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AQUA Properties](https://aquaproperties.com)
 
-- 🌱 I’m currently learning **solidity**
+- 🌱 I’m currently learning **solidity** and **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://hartsol.herokuapp.com](https://hartsol.herokuapp.com)
 
