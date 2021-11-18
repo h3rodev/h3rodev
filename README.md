@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
 <h3 align="center">A passionate programer from Philippines living in Dubai</h3>
 
-- 🔭 I’m currently working on [AQUA Properties](https://aquaproperties.com)
-
 - 🌱 I’m currently learning **solidity** and **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://hartsol.herokuapp.com](https://hartsol.herokuapp.com)
