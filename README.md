@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **solidity** and **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://hartsol.herokuapp.com](https://hartsol.herokuapp.com)
-
-- 📝 I regularly write articles on [https://inspiresean.com](https://inspiresean.com)
-
 - 💬 Ask me about **Python, Laravel, Wordpress, Vue, React, Flutter**
 
 - 📫 How to reach me **ronald.tolentino27@gmail.com**
